@@ -1,0 +1,42 @@
+# Core Shiny framework
+shiny==0.10.2
+
+# Single-cell analysis
+scanpy==1.10.1
+anndata==0.10.7
+
+# Scientific computing
+numpy==1.24.4
+pandas==2.0.3
+scipy==1.11.4
+scikit-learn==1.3.2
+statsmodels==0.14.1
+numba==0.58.1
+
+# Plotting
+matplotlib==3.7.3
+seaborn==0.13.0
+
+# File I/O
+h5py==3.10.0
+tables==3.9.2
+
+# UMAP algorithm
+umap-learn==0.5.5
+pynndescent==0.5.11
+
+# Additional scanpy dependencies
+networkx==3.2.1
+joblib==1.3.2
+tqdm==4.66.1
+packaging==23.2
+session-info==1.0.0
+llvmlite==0.41.1
+
+# Legacy API wrapper (required by scanpy)
+legacy-api-wrap==1.4
+
+# Additional dependencies that might be needed
+igraph==0.11.3
+leidenalg
+louvain==0.8.2
