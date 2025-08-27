@@ -28,7 +28,7 @@ For Seurat users, convert via `anndataR` or the provided R script.
 - UMAP plots (metadata or gene expression coloring)  
 - UMAP coordinates (`.csv`)  
 - Updated AnnData with new embeddings  
-- Expression similarity dendrograms  
+- Cluster dendrograms  
 
 ## Interpretation
 Reminder:  
